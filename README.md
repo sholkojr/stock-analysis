@@ -28,7 +28,17 @@ When the script is executed, the user is prompted to enter the year to analysed,
 
 Then the chart is populated and a run time execution dialog box is opened.  The below show an example of the runtime results for 2017 and 2018 year executions
 
-![2017 Runtime Results](/Resources/All_Stocks_2017.png)
+### Output for 2017
 
-![2018 Runtime Results](/Resources/All_Stocks_2018.png)
+![2017 Summary Output](/Resources/All_Stocks_2017.png)
+
+![2017 Runtime](/Resources/VBA_Challenge_2017.png)
+
+### Output for 2018
+
+![2018 Summary Output](/Resources/All_Stocks_2018.png)
+
+![2018 Runtime](/Resources/VBA_Challenge_2018.png)
+
+
 
