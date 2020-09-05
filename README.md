@@ -32,13 +32,27 @@ Then the chart is populated and a run time execution dialog box is opened.  The 
 
 ![2017 Summary Output](/Resources/All_Stocks_2017.png)
 
+### Original Code Runtime for 2017
+
+![2017 Runtime](/Resources/VBA_Challenge_2017_prerefx.png)
+
+### Refactored Code Runtime for 2017
+
 ![2017 Runtime](/Resources/VBA_Challenge_2017.png)
 
 ### Output for 2018
 
 ![2018 Summary Output](/Resources/All_Stocks_2018.png)
 
+### Original Code Runtime for 2018
+
+![2017 Runtime](/Resources/VBA_Challenge_2018_prerefx.png)
+
+### Refactored Code Runtime for 2018
+
 ![2018 Runtime](/Resources/VBA_Challenge_2018.png)
+
+
 
 
 
