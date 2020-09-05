@@ -26,7 +26,7 @@ When the script is executed, the user is prompted to enter the year to analysed,
 
 ![Year Input](/Resources/Screenshot_Year_Input.png)
 
-Then the chart is populated and a run time execution dialog box is opened.  The below show an example of the runtime results for 2017 and 2018 year executions
+Then the chart is populated and a run time execution dialog box is opened.  The below show the runtime results for 2017 and 2018 year executions for both the original and refactored code.
 
 ### Output for 2017
 
@@ -53,6 +53,12 @@ Then the chart is populated and a run time execution dialog box is opened.  The 
 ![2018 Runtime](/Resources/VBA_Challenge_2018.png)
 
 
+## Summary
+### Benefits of Refactoring
+Refactoring code can lead to more efficient use of computer resources to get the same answer.  This can be beneficial for when programs handle massive amounts of data.  A more "elegant" solution can also be easier for other programmers to read and can be easier to troubleshoot.
 
+### Drawbacks of Refactoring
+Refactoring takes time to program and may only produce marginal benefits when handling small datasets and dealing with simple programs.  In other words: it may not be worth one's time to performa a refactoring in certain cases.
 
-
+### Application of Refactoring in this Application
+Refactoring provided a marginal gain in programming of about half of a second on average.  This unnoticeable difference to the end user may not have been worth the additional hours the client may have paid to have the code revised.
