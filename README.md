@@ -9,7 +9,9 @@ To perform an analysis of select clean enery stocks with opening, closing and tr
 
 ### Development of the Analysis Tool
 
-The tool was developed by creating variable arrays to add up the volume and determine the opening and closing price of each stock ticker. The tool was initially developed to track and analyse one stock and year of interest to the client ( stock "DQ" during the year 2018) and then the code was revised to include all stocks and multiple dataset representing different years (2017 and 2018).  There was a third revision to refactor the code to make the tool run more efficient, flexible and capable for further use (addiitonal stock data).
+The tool was developed by creating variable arrays to add up the volume and determine the opening and closing price of each stock ticker. 
+
+It was initially coded to track and analyse one stock and year of interest to the client ( stock "DQ" during the year 2018) and then the code was revised to include all stocks and multiple dataset representing different years (2017 and 2018).  There was a third revision to refactor the code to make the tool run more efficient, be more flexible and capable for further use (addiitonal stock data).
 
 ### Description of Algorithm
 
