@@ -4,6 +4,7 @@
 
 To perform an analysis of select clean enery stocks with opening, closing and trade volume data from 2017 and 2018.  A tool was developed in VBA for the client to quickly summarize the data to understand profit/loss and trading volumes of the stocks for both years and to enable the client to perform further analysis with more data.
 
+
 ## Results
 
 ### Development of the Analysis Tool
@@ -54,11 +55,15 @@ Then the chart is populated and a run time execution dialog box is opened.  The 
 
 
 ## Summary
+
 ### Benefits of Refactoring
+
 Refactoring code can lead to more efficient use of computer resources to get the same answer.  This can be beneficial for when programs handle massive amounts of data.  A more "elegant" solution can also be easier for other programmers to read and can be easier to troubleshoot.
 
 ### Drawbacks of Refactoring
+
 Refactoring takes time to program and may only produce marginal benefits when handling small datasets and dealing with simple programs.  In other words: it may not be worth one's time to performa a refactoring in certain cases.
 
 ### Application of Refactoring in this Application
+
 Refactoring provided a marginal gain in programming of about half of a second on average.  This unnoticeable difference to the end user may not have been worth the additional hours the client may have paid to have the code revised.
